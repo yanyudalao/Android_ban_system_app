@@ -1,0 +1,2 @@
+# Android_ban_system_app
+不ROOT禁用系统垃圾APP
