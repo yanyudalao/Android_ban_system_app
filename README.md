@@ -15,5 +15,7 @@
 ```shell
 pm disable-user "包名"
 # 包名查找方式：打开手机设置、应用、详情即可查看
+
+pm enable '包名' #激活包
 ```
 
